@@ -8,7 +8,135 @@ html {
   body {
     margin: 0;
   }
-  
+
+ 
+  .tagss11{
+    display:flex;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    padding-right: 30px;
+    margin-top: -70px;
+    margin-left: 130px;
+    /* position: absolute; */
+    height: 40px;
+    /* width: 400px; */
+    /* background-color: #0082f3; */
+  }
+  .tagss12{
+    display:flex;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    padding-right: 30px;
+    margin-top: -70px;
+    margin-left: 230px;
+    /* position: absolute; */
+    height: 40px;
+    /* background-color: #0082f3; */
+  }
+  .tagss13{
+    display:flex;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    padding-right: 30px;
+    margin-top: -70px;
+    margin-left: 120px;
+    /* position: absolute; */
+    height: 40px;
+    /* background-color: #0082f3; */
+  }
+  .tagss14{
+    display:flex;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    padding-right: 30px;
+    margin-top: -70px;
+    margin-left: 140px;
+    /* position: absolute; */
+    height: 40px;
+    /* background-color: #0082f3; */
+  }
+  .tagss15{
+    display:flex;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    padding-right: 30px;
+    margin-top: -70px;
+    margin-left: 130px;
+    /* position: absolute; */
+    height: 40px;
+    /* background-color: #0082f3; */
+  }
+  .tagss2{
+    
+    margin-left: 20px;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+    font-family: monospace;
+    
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #8d8d8d;
+    padding-left: 15px;
+    padding-right: 15px;
+    /* width: 80px; */
+    /* background-color: #00f310; */
+    font-size: large;
+    filter: saturate(0%);
+
+  }
+  .tagss2:hover{
+    transition: 0.3s;
+    filter: saturate(100%);
+  }
+  .tagss299{
+    
+    margin-left: auto;
+    font-weight: bolder;
+
+  }
+  .tagss29{
+    
+    margin-left: auto;
+    font-weight: bolder;
+    /* vertical-align: middle; */
+    /* position: relative; */
+    /* text-align: center; */
+    font-family: Odibeesans;
+    color:black;
+    /* border-radius: 15px; */
+    border-style: solid;
+    border-color: #c1c1c1;
+    padding: 2px;
+    /* width: 80px; */
+    background-color: #e5e5e5;
+    font-size:20px;
+    transition: 0.3s;
+  }
+  .tagss29:hover{
+    
+    margin-left: auto;
+    font-weight: bolder;
+    /* vertical-align: middle; */
+    /* position: relative; */
+    /* text-align: center; */
+    font-family: Odibeesans;
+    color:#f1f1f1;
+    /* border-radius: 15px; */
+    border-style: solid;
+    border-color: #c1c1c1;
+    padding: 2px;
+    /* width: 80px; */
+    background-color: #000;
+    font-size:20px;
+  }
+
+
   ::-webkit-scrollbar {
     display: none;
   }
